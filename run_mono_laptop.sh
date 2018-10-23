@@ -1,0 +1,1 @@
+./Examples/Monocular/mono_laptop ./Vocabulary/ORBvoc.txt ./Examples/Monocular/mono_laptop.yaml
